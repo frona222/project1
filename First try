@@ -1,0 +1,34 @@
+#Week 1: 
+
+1.In Week one I learned how to import and export data into R studio.
+2. I got an introduction to preditive modeling: Supervised learning vs. Unsupervised learning. 
+
+
+#Week 2: 
+3.In week 2 I used summary statistics to dig deeper into data.
+4. I also learned how to use data visualization and look at graphs such as ggplot2 function. 
+
+#Week 3:
+5.In week 3 we started getting into linear regression and understanding how it works. 
+6.We then used our skills in R to apply linear regression to models. Splitting data into test and training sets and building models that make predictions. 
+
+#Week 4:
+7.In week 4 we learned about classification and performance measures.We learned how classification differs from regression problems and when to use them.  
+8.We then put our skills into use by applying classification to R by converting data types, checking summarys and building models. 
+
+#Week 5:
+9.We started talking about Generalized linear models and assumptions of linear regression models this week. 
+10.We learned how to build poisson regression models in R. 
+
+#Week 6:
+11.This week we got into decision trees and learned about how they work. 
+We also learned about random forests and how the two differ. 
+12.We applied both decision trees and random forests in R.
+
+#Week 7:
+13.In week 7 we went over K-means clustering. We determined how many optimal numbers of clusters needed and the elements of each cluster. 
+14.We utilized this information to cluster in R studio and using k-means. 
+
+#Week 8:
+15.This week we learned the importance of audience and documentation. Its important to have all important information listed in case you need to come back. Documenting facts of your work is important
+16.We also learned about Github and how to utilize this program. 
